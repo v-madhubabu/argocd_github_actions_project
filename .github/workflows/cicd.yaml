@@ -11,7 +11,7 @@ jobs:
 
     env:
       REGISTRY: docker.io
-      IMAGE_NAME: devopshubg333/webapp
+      IMAGE_NAME: madhubabuv/nginx
 
     steps:
       # Checkout
